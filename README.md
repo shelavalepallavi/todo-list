@@ -44,10 +44,10 @@ An interactive To-Do list webpage built using **HTML, CSS, and JavaScript** to h
 3. 🗑️ Click the **❌ Delete** button to remove a task.
 
 ## 💡 Future Enhancements 🔮
-- 🖱️ Drag-and-drop functionality
-- 🌙 Dark mode support
-- 🗂️ Task categories
-- 🔗 Backend integration for user authentication
+- 🖱️ Drag-and-drop functionality.
+- 🌙 Dark mode support.
+- 🗂️ Task categories.
+- 🔗 Backend integration for user authentication.
 
 ## 🤝 Contributing 🤗
 Feel free to fork this repository, create a new branch, and submit a pull request with improvements!
