@@ -6,11 +6,11 @@ An interactive To-Do list webpage built using **HTML, CSS, and JavaScript** to h
 ![To-Do Webpage Screenshot](dashboard.png)
 
 ## 🚀 Features ✨
-- ✅ Add new tasks with ease
-- ✔️ Mark tasks as completed
-- ❌ Delete tasks when done
-- 📱 Responsive design for mobile and desktop
-- 💾 Data persistence using localStorage
+- ✅ Add new tasks with ease.
+- ✔️ Mark tasks as completed.
+- ❌ Delete tasks when done.
+- 📱 Responsive design for mobile and desktop.
+- 💾 Data persistence using localStorage.
 
 ## 🛠️ Technologies Used 🔧
 - 🏗️ **HTML** for the structure
