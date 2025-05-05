@@ -13,9 +13,9 @@ An interactive To-Do list webpage built using **HTML, CSS, and JavaScript** to h
 - 💾 Data persistence using localStorage.
 
 ## 🛠️ Technologies Used 🔧
-- 🏗️ **HTML** for the structure
-- 🎨 **CSS** for styling and responsiveness
-- ⚡ **JavaScript** for interactivity
+- 🏗️ **HTML** for the structure.
+- 🎨 **CSS** for styling and responsiveness.
+- ⚡ **JavaScript** for interactivity.
 
 ## 📂 Project Structure 📁
 ```
